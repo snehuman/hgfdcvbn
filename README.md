@@ -1,6 +1,5 @@
-# hgfdcvbn
+# Innerve's Website 
 This project was made for submition in Innerve Summer of Code'23 (ISOC'23). I'm Sneha Suman a prefinal undergrad at Indira Gandhi Delhi Technical University for Women. It is made in UI/UX track. I tried to give Innerve's website a retouch by using the theme of Retrofuturism.
-**Innerve's Website**
 
 I choose Retrofuturism as the theme as it is an intersting topic/aesthetic to work on. On fisrt launching the website, it shows the landing page, after that home page has futher pages to go on, like Events, gallery, about us, Innerve hacks. 
 On clicking events, events from MAE, ECE, CSE/IT and informal teams would show up. Gallery would be having 3 main sections, i.e. Core Team, Events and Stage. About us, gives the information about what innerve is? where is it loacted? how can we contact them? who conducts it?, and many more. 
